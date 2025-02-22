@@ -58,7 +58,7 @@ The app's appearance can be easily customized by modifying the CSS variables in 
 To run this app locally, follow these steps:
 
 1. Clone the repository or download the source code.
-2. ````git clone https://github.com/bontlenkoale1/Todo-List````
+2. ```git clone https://github.com/bontlenkoale1/Todo-List```
 3. Open the `index.html` file in your browser.
 4. Start managing your tasks!
 
